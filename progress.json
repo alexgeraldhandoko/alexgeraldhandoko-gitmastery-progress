@@ -342,5 +342,14 @@
       "Great work comparing the branches successfully!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-squash",
+    "started_at": 1769404459.6448,
+    "completed_at": 1769404462.795638,
+    "comments": [
+      "Ref 'supporting' did not resolve to an object"
+    ],
+    "status": "Error"
   }
 ]
